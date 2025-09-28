@@ -36,7 +36,7 @@ Eduardo De Abreu Billa, James Nguyen
 ### The software used for this project will consist of three softwares: Python, Google Collab, and TensorFlow Lite (Lite RT). Python will be used for programming and data processing. Google Collab will be used for training the model. TensorFlow Lite will be used for running the model on the Raspberry Pi.
 
 ## System Blocks
-![SystemBlock](images/sysblock.png)
+![SystemBlock](sysblock.png)
 ## Roles & Timeline
 ### Roles and responsibilities will be as follows:
 Eduardo:
@@ -51,4 +51,7 @@ James:
 * Hardware
 * Software
 * Host machine to embedded system interfacing.
-![Gant](images/gantt535.png)
+
+
+![Gant](gantt535.png)  
+Gantt format obtained from Microsoft
