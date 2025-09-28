@@ -5,7 +5,7 @@ Eduardo De Abreu Billa, James Nguyen
 ### Develop a cost efficient smart doorbell as an alternative to current popular camera doorbell devices. Cheaper doorbells featuring cameras typically do not have object recognition, and have less features than their more expensive counterparts. More popular alternatives (Such as Ring and Amcrest) are more expensive, and sometimes even feature subscription services.
 
 ## Design Goals
-### This project will have several design goals. The project will be able to wirelessly connect to a host machine via the internet, and then send a real time feed of the camera upon detecting motion/people. The doorbell will send a notification/alert depending on the visitor detected, to keep the user apprised of their doorstep. Should the user miss the notification, these will also be saved to the battery powered Raspberry Pi. The images/videos will then be transferred to the host machine should the user wish to store or view them at a later time.
+### This project will have several design goals. The project will be able to wirelessly connect to a host machine via the internet, and then send a real time feed of the camera upon detecting motion/people. The doorbell will send a notification/alert depending on the visitor detected, to keep the user apprised of any visitors approaching their door. Should the user miss the notification, these will also be saved to the battery powered Raspberry Pi. The images/videos will then be transferred to the host machine should the user wish to store or view them at a later time.
 * Motion tracking capabilities
   * Record on motion
 * Cost-effective
