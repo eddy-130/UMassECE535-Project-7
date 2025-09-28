@@ -45,6 +45,7 @@ Eduardo:
 * Hardware
 * Software
 * Host machine to embedded system interfacing
+
 James:
 * System Blocks
 * Hardware
