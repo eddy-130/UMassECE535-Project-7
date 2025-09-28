@@ -55,3 +55,10 @@ James:
 
 ![Gant](gantt535.png)  
 Gantt format obtained from Microsoft
+
+## References
+A lightweight CNN paper on edge vision (https://arxiv.org/abs/1704.04861)  
+Power Supply (https://resources.pcb.cadence.com/blog/2023-power-supply-design-for-embedded-systems)  
+Raspberry Pi (https://www.raspberrypi.com/)  
+
+
